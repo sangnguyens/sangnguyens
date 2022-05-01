@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sangnguyens
-- 👀 I’m interested in data and machine learning.
-- 🌱 I’m currently learning machine learning engineer at FourthBrain
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently learning machine learning engineer at FourthBrain to advance my career in this field.
 - 💞️ I’m looking to collaborate with my peers to develop the data product for a better world
 - 📫 How to reach me: please contact me via email address sangnt.pvpro@vpi.pvn.vn or nguyensnflow@gmail.com
 
